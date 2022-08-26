@@ -1,0 +1,9 @@
+@misc{https://doi.org/10.48550/arxiv.2207.08867,
+  doi = {10.48550/ARXIV.2207.08867},
+  url = {https://arxiv.org/abs/2207.08867},
+  author = {Yu, Tao and Guo, Went and Li, Jianan Canal and Yuan, Tiancheng and De Sa, Christopher},
+  title = {MCTensor: A High-Precision Deep Learning Library with Multi-Component Floating-Point},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}

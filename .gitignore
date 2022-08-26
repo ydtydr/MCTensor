@@ -1,0 +1,10 @@
+__pycache__/*
+.ipynb_checkpoints/*
+tmp*
+build
+dist
+applications/basic_examples/MLP/data/*
+*.sub
+*.out
+*.err
+*data

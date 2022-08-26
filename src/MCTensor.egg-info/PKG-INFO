@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MCTensor
+Version: 0.1
+Summary: MCTensor: A High-Precision Deep Learning Library with Multi-Component Floating-Point
+Home-page: https://github.com/ydtydr/MCTensor
+Author: Tao Yu, Wentao Guo, Jianan Canal Li, Tiancheng Yuan, Christopher De Sa
+Project-URL: Bug Tracker, https://github.com/ydtydr/MCTensor
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache-2.0 License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE

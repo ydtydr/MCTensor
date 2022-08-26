@@ -1,0 +1,18 @@
+name: poincare
+channels:
+- anaconda
+- pytorch
+- fastai
+- defaults
+dependencies:
+- python=3.8.5=h7579374_1
+- nltk=3.5=py_0
+- scikit-learn=0.23.2=py38h0573a6f_0
+- pytorch=1.11.0=py3.8_cuda10.2_cudnn7.6.5_0
+- pytorch-mutex=1.0=cuda
+- pandas=1.1.3=py38he6710b0_0
+- h5py=2.10.0=py38h7918eee_0
+- cython=0.29.21=py38he6710b0_0
+- cython-blis=0.4.1=py38h7b6447c_1
+- tqdm=4.50.2=py_0
+- pyzmq=19.0.2=py38he6710b0_1
